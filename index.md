@@ -1,19 +1,19 @@
 ## Portfolio weighting and optimization
 
 
-### Measurements of the portfolio
+### 1.Measurements of the portfolio
 ```` markdown
 -Daily portfolio returns
 -Covariance matrix
 -Volatility of portfolio
 ````
 
-### Risk Trade Off
+### 2.Risk Trade Off
 ```` markdown
 -Concatenate annual means fo return and standard deviation
 -Produced a graph to see the sharpe ratio
 ```` 
-### How to optimize portfolio for minimum variance
+### 3.How to optimize portfolio for minimum variance
 ```` markdown
 -Convert close prices to lo log
 -Get bencnhmark returns (S&P 500)
