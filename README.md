@@ -23,7 +23,7 @@ from pandas_datareader import data
 
 ### Topics discused
 
-````markdown
+
 # Heatmap correlation od returns
 <img src="images/heatmap.png">
 # Portfolio Standard Deviation and Covariance Matrix
@@ -36,7 +36,6 @@ from pandas_datareader import data
 2.Efficient frontier
 3.Performance with optimal weightings:
 <img src="images/portfolio performance.png">
-````
 
 
 
