@@ -27,9 +27,10 @@ from pandas_datareader import data
 ## Heatmap correlation of returns
 <img src="images/heatmap.png">
 ## Portfolio Standard Deviation and Covariance Matrix
+
 ## Risk Trade Off
 <img src="images/Return risk trade off.png">
-#CAGR & Drawdown of portfolio
+## CAGR & Drawdown of portfolio
 <img src="images/Drawdown.png">
 
 ## Minimum Variance Optimization
