@@ -32,7 +32,7 @@ from pandas_datareader import data
 #CAGR & Drawdown of portfolio
 <img src="images/Drawdown.png">
 
-## Minimum Variance Optimization
+### Minimum Variance Optimization
 
  1.EV
  2.Efficient frontier
