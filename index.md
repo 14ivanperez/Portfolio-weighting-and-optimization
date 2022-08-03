@@ -1,31 +1,23 @@
-## Portfolio of tools produced
+## Portfolio weighting and optimization
 
----
 
-### Main risk  tools
-VaR
-<img src="images/VAR.jpg?raw=true"/>
----
+### Measurements of the portfolio
+-Daily portfolio returns
+-Covariance matrix
+-Volatility of portfolio
 
-ES
-<img src="images/ES.jpg?raw=true"/>
----
+### Risk Trade Off
 
-### Distributions used
+-Concatenate annual means fo return and standard deviation
+-Produced a graph to see the sharpe ratio
 
-- Random Distribution
-<img src="images/Random distribution.png">
-- Empirical Distribution
-<img src="images/Empirical distribution.png"/>
-- Student T Distribution
-<img src="images/Student t distribution.png"/>
+### How to optimize portfolio for minimum variance
 
-### Simulations used to estimate  VaR and ES at 10-day horizon
-
-- Simulation 1: the scaled student-t distribution
-- Simulation 2: randomly samples ten 1-day observations from the empirical distribution and add them up
-- Simulation 3: randomly draws blocks of ten consecutive 1-day outcomes and add them up
-
+-Convert close prices to lo log
+-Get bencnhmark returns (S&P 500)
+-Calculate expected returns with CAPM
+-Calculate covariance to obtain the efficient frontier
+-Use the efficient frontier to get the optimal weights for minimum volatility
 
 
 
