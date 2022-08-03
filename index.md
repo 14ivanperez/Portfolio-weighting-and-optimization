@@ -2,9 +2,11 @@
 
 
 ### Measurements of the portfolio
+''
 -Daily portfolio returns
 -Covariance matrix
 -Volatility of portfolio
+''
 
 ### Risk Trade Off
 
