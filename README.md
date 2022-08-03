@@ -33,7 +33,9 @@ from pandas_datareader import data
 <img src="images/Drawdown.png">
 ## Minimum Variance Optimization
  1.EV
+ 
  2.Efficient frontier
+ 
  3.Performance with optimal weightings:
  <img src="images/portfolio performance.png">
 
