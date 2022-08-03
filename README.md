@@ -27,7 +27,8 @@ from pandas_datareader import data
 ## Heatmap correlation of returns
 <img src="images/heatmap.png">
 
-## Portfolio Standard Deviation and Covariance Matrix
+## Portfolio Covariance
+<img src="images/covariance.png">
 
 ## Risk Trade Off
 <img src="images/Return risk trade off.png">
