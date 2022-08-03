@@ -31,6 +31,7 @@ from pandas_datareader import data
 
 ## Risk Trade Off
 <img src="images/Return risk trade off.png">
+
 ## CAGR & Drawdown of portfolio
 <img src="images/Drawdown.png">
 
