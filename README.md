@@ -1,11 +1,11 @@
-## Portfolio Weighting and Optimization
+# Portfolio Weighting and Optimization
 
 
-### Introduction
+## Introduction
 
 I first construct an equally weighted portfolio with the 10 highest market cap S&P500 companies in 2022. Next, I calculate its performance, risk, and correlation on a heat map. I finally made an optimization to reduce its volatility using CAPM
 
-### Required libraries
+## Required libraries
 
 ```` markdown
 import pandas as pd
@@ -21,10 +21,10 @@ import pypfopt as pypfopt
 from pandas_datareader import data
 ````
 
-### Topics discused
+## Topics discused
 
 
-## Heatmap correlation od returns
+## Heatmap correlation of returns
 <img src="images/heatmap.png">
 ## Portfolio Standard Deviation and Covariance Matrix
 ## Risk Trade Off
