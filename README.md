@@ -24,18 +24,18 @@ from pandas_datareader import data
 ### Topics discused
 
 
-# Heatmap correlation od returns
+## Heatmap correlation od returns
 <img src="images/heatmap.png">
-# Portfolio Standard Deviation and Covariance Matrix
-# Risk Trade Off
+## Portfolio Standard Deviation and Covariance Matrix
+## Risk Trade Off
 <img src="images/Return risk trade off.png">
 #CAGR & Drawdown of portfolio
 <img src="images/Drawdown.png">
-# Minimum Variance Optimization
-1.EV
-2.Efficient frontier
-3.Performance with optimal weightings:
-<img src="images/portfolio performance.png">
+## Minimum Variance Optimization
+ 1.EV
+ 2.Efficient frontier
+ 3.Performance with optimal weightings:
+ <img src="images/portfolio performance.png">
 
 
 
